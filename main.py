@@ -1,0 +1,1 @@
+print(input('string>').split(' ')[0])
